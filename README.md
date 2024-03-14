@@ -1,6 +1,4 @@
-# STArWaRS
-Shallow-water Topology: Arranging Waves on the Rotating Sphere
-
+# Shallow-water Topology: Arranging Waves on the Rotating Sphere
 
 This repository includes numerical scripts (Mathematica and Python 3) used in the article "Topology of shallow-water waves on the rotating sphere", Perez et al (to be published).
 
